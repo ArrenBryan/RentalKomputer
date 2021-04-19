@@ -1,0 +1,32 @@
+Yang dapat mengakses program ini hanya Operator Warnet
+
+A. Tata Cara Login 
+1. Inputkan angka 1 di menu utama jika Anda ingin mengetahui komputer yang sedang tidak digunakan.
+2. Inputkan angka 2 di menu utama jika Anda ingin langsung melakukan login.
+2. Inputkan nomer komputer yang akan digunakan. Jika komputer sedang tidak digunakan akan muncul pemberitahuan "Komputer sedang tidak digunakan". 
+3. Selanjutnya akan muncul pertanyaan untuk melakukan login ke komputer tersebut. Inputkan 1 jika anda akan melakukan login.
+4. Saat di menu login, inputkan jam masuk dengan format (Jam:Menit:Detik)
+5. Selanjutnya akan muncul pertanyaan untuk kembali ke menu awal. Inputkan 1 jika anda ingin kembali ke menu.
+
+B. Tata Cara Logout
+1. Pastikan anda telah melakukan login.
+2. Inputkan angka 3 di menu utama.
+3. Inputkan nomer komputer yang telah anda gunakan
+4. Inputkan jam keluar dengan format (Jam:Menit:Detik)
+5. Inputkan 1 jika anda menggunakan printer dan inputkan 0 jika anda tidak menggunakan printer
+	a. Jika Anda menggunakan printer, Inputkan jumlah kertas yang dicetak hitam putih atau kertas yang dicetak berwarna.
+6. Inputkan 1 jika anda membeli makanan atau minuman dan inputkan 0 jika anda tidak membeli makanan atau minuman
+	a. Jika Anda membeli makanan atau minuman, input pilihan menu makanan atau minuman yang Anda beli.
+	b. Input banyaknya porsi/gelas makanan atau minuman yang Anda beli.
+7. Inputkan 1 jika Anda membeli makanan atau minuman yang berbeda dari sebelumnya dan inputkan 0 jika Anda tidak membeli lagi makanan atau minuman.
+	a. Jika Anda membeli makanan atau minuman yang berbeda dari sebelumnya program akan kembali ke menu makanan atau minuman.
+8. Selanjutnya akan muncul total biaya yang harus dibayar beserta rinciannya.
+
+C. Tata Cara Menampilkan Data Penggunaan Rental
+1. Inputkan angka 4 di menu utama. 
+2. Inputkan nomer komputer yang akan ditampilkan datanya.
+3. Selanjutnya program akan menampilkan data komputer tersebut.
+
+D. Tata Cara Menampilkan Semua Data Pengguna Rental
+1. Inputkan angka 5 di menu utama.
+2. Selanjutnya program akan menampilkan semua data pengguna rental.
